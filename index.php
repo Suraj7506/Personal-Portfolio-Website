@@ -124,13 +124,22 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           <li class="w3-padding-16">Javascript</li>
           <li class="w3-padding-16">PHP</li>
           <li class="w3-padding-16">Python</li>
-          <li class="w3-padding-16">Java</li>
-          <li class="w3-padding-16">Bootstrap</li>
-          
-                  
+         
       </ul>
       </div>
        
+      <div class="w3-half">
+        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+          
+          <li class="w3-padding-16">Java</li>
+          <li class="w3-padding-16">Bootstrap</li>
+          <li class="w3-padding-16">C++</li>
+          <li class="w3-padding-16">C</li>
+          <li class="w3-padding-16">Web Scraping</li>
+
+          
+        </ul>
+      </div>
     
     <!-- End Grid/Pricing tables -->
     </div>
