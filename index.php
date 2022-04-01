@@ -125,35 +125,13 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           <li class="w3-padding-16">PHP</li>
           <li class="w3-padding-16">Python</li>
           <li class="w3-padding-16">Java</li>
-          <li class="w3-padding-16">jQuery</li>
-          <li class="w3-padding-16">Angular.Js</li>
-          <li class="w3-padding-16">React.Js</li>
-          <li class="w3-padding-16">TypeScript</li>
-          <li class="w3-padding-16">Wordpress</li>
+          <li class="w3-padding-16">Bootstrap</li>
           
-                         
+                  
       </ul>
       </div>
        
-      <div class="w3-half">
-        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
-          
-          <li class="w3-padding-16">Sql</li>
-          <li class="w3-padding-16">C</li>
-          <li class="w3-padding-16">C++</li>
-          <li class="w3-padding-16">MySQL</li>
-          <li class="w3-padding-16">Node.js</li>
-          <li class="w3-padding-16">Flask</li>
-          <li class="w3-padding-16">MongoDb</li>
-          <li class="w3-padding-16">Django</li>
-          <li class="w3-padding-16">Web Scraping</li>
-          <li class="w3-padding-16">Linux</li>
-          <li class="w3-padding-16">Bootstrap</li>
-
-          
-        </ul>
-      </div>
-
+    
     <!-- End Grid/Pricing tables -->
     </div>
     
