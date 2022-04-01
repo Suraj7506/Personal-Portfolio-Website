@@ -170,7 +170,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       Information Technology.</b><p>
 
        <button class="w3-button w3-light-grey w3-padding-large w3-section">
-      <a href="https://github.com/Suraj7506"><b> View Projects </b></a>
+      <a href="https://drive.google.com/file/d/15xKg1lc8FDIbzyeb03phVk6cgCQTOAhg/view?usp=sharing"><b> View Projects </b></a>
     </button> 
 
     <h3 class="w3-text-light-grey">Experience </h3>
