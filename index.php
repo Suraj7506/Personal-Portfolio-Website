@@ -110,9 +110,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     </div>
 
     <button class="w3-button w3-light-grey w3-padding-large w3-section">
-      <a href="https://github.com/Suraj7506"><b> Download Resume </b></a>
+      <a href="https://drive.google.com/file/d/10wzb5mR57EcxtRvyeG9lO75c6wNIG0sE/view?usp=drivesdk"><b> Download Resume </b></a>
     </button>
-    
+      
     <!-- Languages Known -->
     <h3 class="w3-padding-16 w3-text-light-grey">Programming Skills</h3>
     <div class="w3-row-padding" style="margin:0 -16px">
